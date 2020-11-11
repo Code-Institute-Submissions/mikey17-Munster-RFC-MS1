@@ -1,45 +1,67 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Munster RFC
 
-Welcome USER_NAME,
+MS1 Project-Codeinstitute
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+This is my website based on Munster Rugby Football Club.
 
-## Gitpod Reminders
+# UX
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### **User Stories**
 
-`python3 -m http.server`
+#### 1. First Time User
 
-A blue button should appear to click: *Make Public*,
+- As a first time user, I want to easily find my way around the site and find what Im looking for quickly.
+- As a first time user, I want to be able to see where the stadium is, and also get directions to the stadium.
+- I want to find information on the Munster Rugby team and also images and some history on the team.
+- As a fan I want to see dates for upcoming matches, and also find out where I can purchase tickets for the upcoming games.
+- As a fan, I want to be able to view merchandise and order/buy merchandise, or else have a link to be able to do so.
+- As a First time user, I want to see if there are any links to the clubs social media channels.
 
-Another blue button should appear to click: *Open Browser*.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+#### 2. Returning User
 
-A blue button should appear to click: *Make Public*,
+- As a returning user, I want to check on the results of the team.
+- As a returning user, I want to check on upcoming fixtures again.
+- As a returning user, I want to see if there is any new updates about the team or club as a whole.
 
-Another blue button should appear to click: *Open Browser*.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+#### 3. Frequent User
 
-## Updates Since The Instructional Video
+- As a frequent user, I want to check on the news of the club each day.
+- As a frequent user, I want to look for new images on the site.
+- As a frequent user, I want to check for new details on upcoming games and ticket availability.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+#### Strategy
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+My aim in the design was to keep the home page simplistic with a captivating image to get fans/users attention immediately,
+.I also wanted the user to be able to naviagte the site very easily and have it as user-friendly as possible.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+#### Scope
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+For users, I wanted to provide them with as much info about Munster RFC as possible.
+I also wanted to add options for merchandise (through a link).Plus i wanted to have images that the uses would
+want to view of matches and the club in general. As the stadium is located on google maps I felt a direct link to google
+maps would be appropriate here.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+#### Structure
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+In the home page I wanted a image that would draw the attention of the user immediately. I also wanted a naviagation bar that is easily useable,
+and can get you to the rest of the site without much effort.
+In the history section I wanted to detail some of the clubs most iconics matches/players.
+I also wanted to add a gallery of current and past players.
+In the matches section I wanted to inform the user about past games and upcoming fixtures.
+Plus have a link to buy tickets and merchandise. 
+In the footer of each page i wanted to have links to the clubs social media accounts.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+#### Skeleton
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+Home wireframe (add link)
+History wireframe (add link)
+Matches wireframe (add link)
 
---------
+#### Surface
 
-Happy coding!
+The hero image on the homescreen was to showcase the stadium
+the club play their matches in. The color scheme was in-line 
+with the clubs colors of blue and red.
+
