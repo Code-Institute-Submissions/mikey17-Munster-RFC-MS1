@@ -1,12 +1,12 @@
-# Munster RFC
+# **Munster RFC**
 
 MS1 Project-Codeinstitute
 
 This is my website based on Munster Rugby Football Club.
 
-# UX
+## **UX**
 
-### **User Stories**
+## User Stories
 
 #### 1. First Time User
 
@@ -33,8 +33,8 @@ This is my website based on Munster Rugby Football Club.
 
 #### Strategy
 
-My aim in the design was to keep the home page simplistic with a captivating image to get fans/users attention immediately,
-.I also wanted the user to be able to naviagte the site very easily and have it as user-friendly as possible.
+My aim in the design was to keep the home page simplistic with a captivating image to get fans/users attention
+immediately.I also wanted the user to be able to naviagte the site very easily and have it as user-friendly as possible.
 
 #### Scope
 
@@ -55,13 +55,24 @@ In the footer of each page i wanted to have links to the clubs social media acco
 
 #### Skeleton
 
-Home wireframe (add link)
-History wireframe (add link)
-Matches wireframe (add link)
+- Home wireframe (add link)
+- History wireframe (add link)
+- Matches wireframe (add link)
 
 #### Surface
 
 The hero image on the homescreen was to showcase the stadium
 the club play their matches in. The color scheme was in-line 
 with the clubs colors of blue and red.
+
+## **Technologies**
+
+ ![html logo](https://e5994c7d-6110-470f-ba4e-e17f28164fa5.ws-eu01.gitpod.io/files/download/?id=f7bd2824-b20d-42f0-89a0-b45a4ed73f10)
+
+ ![css logo](https://e5994c7d-6110-470f-ba4e-e17f28164fa5.ws-eu01.gitpod.io/files/download/?id=61ae3746-7c11-48dd-a04f-696961ebaada)
+
+ ![bootstrap logo](https://e5994c7d-6110-470f-ba4e-e17f28164fa5.ws-eu01.gitpod.io/files/download/?id=a2f1b283-e25a-4cc5-a2bb-788d8a5beeca)
+
+
+
 
