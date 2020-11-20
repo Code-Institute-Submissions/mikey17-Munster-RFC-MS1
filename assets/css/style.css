@@ -3,11 +3,51 @@ body {
 }
 
 /* Navbar */
-
-.collapse navbar-collapse{
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5;
-    color: #212529;
-    text-align: left;
+.navbar {
+margin-bottom: 0;
+    width: 100%;
+    background-color: rgba(242, 38, 19, 1)!important;
+    border: 0;
 }
+
+.nav-link{
+    font-weight: bold;
+    text: blue;
+}
+
+/* Navbar */
+
+/* Hero Image */
+
+.jumbotron {
+    height: 100vh;
+    background: no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.jumbotron h2 {
+    padding-top: 75px;
+    padding-bottom: 75px;
+    color: blue;
+}
+/* Hero Image */
+
+/* Footer */
+
+/* Footer */
+
