@@ -67,11 +67,25 @@ with the clubs colors of blue and red.
 
 ## **Technologies**
 
- ![html logo](https://e5994c7d-6110-470f-ba4e-e17f28164fa5.ws-eu01.gitpod.io/files/download/?id=f7bd2824-b20d-42f0-89a0-b45a4ed73f10)
+ ![html logo](assets/images/html.jpg)
 
- ![css logo](https://e5994c7d-6110-470f-ba4e-e17f28164fa5.ws-eu01.gitpod.io/files/download/?id=61ae3746-7c11-48dd-a04f-696961ebaada)
+ ![css logo](assets/images/css.png)
 
- ![bootstrap logo](https://e5994c7d-6110-470f-ba4e-e17f28164fa5.ws-eu01.gitpod.io/files/download/?id=a2f1b283-e25a-4cc5-a2bb-788d8a5beeca)
+ ![bootstrap logo](assets/images/bootstrap.png)
+
+![google fonts]
+
+![font awesome]
+
+## **Testing**
+
+add testing remarks here
+
+## **Credits**
+
+credit anyone that helped with the project
+
+
 
 
 
