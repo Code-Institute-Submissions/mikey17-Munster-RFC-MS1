@@ -110,13 +110,14 @@ footer {
 
 /* --------------------------------Fixtures */
 
-.table{
-    
-}
 
 /* --------------------------------Contact */
 
 #contact {
     background-color: blue !important;
-    color: red !important;
+    text-align: center;
+}
+
+.vertical-center{
+   align-items: center; 
 }
