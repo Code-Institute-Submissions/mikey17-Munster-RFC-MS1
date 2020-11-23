@@ -111,5 +111,15 @@ footer {
     padding: 20px;
 }
 
+/* --------------------------------Fixtures */
 
+.table{
+    
+}
 
+/* --------------------------------Contact */
+
+.contact-section.container {
+    background-color: blue;
+    color: red;
+}
