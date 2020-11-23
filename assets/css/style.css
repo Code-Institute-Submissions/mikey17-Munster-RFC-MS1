@@ -21,19 +21,14 @@ margin-bottom: 0;
 
 /* --------------------------------hero image */
 
-.jumbotron {
+.view.home {
     height: 100vh;
     background: no-repeat bottom right fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
     margin-bottom: 0;
-    background-position: center;
 }
 
 .opaque-overlay {
@@ -44,28 +39,28 @@ margin-bottom: 0;
     width: 100%;
 }
 
-.jumbotron h2 {
+.view h2 {
     padding-top: 75px;
     padding-bottom: 0px;
-    color: blue;
+    color: white;
     text-align: center;
 }
 
-.jumbotron h5 {
+.view h5 {
     color: blue;
     text-align: left;
 }
 
-.jumbotron h3{
+.view h3{
     color: blue;
     text-align: center;
 }
 
-.jumbotron p {
+.view p {
     color: white;
     text-align: left;
-    height: 100vh;
 }
+
 
 
 
@@ -121,7 +116,7 @@ footer {
 
 /* --------------------------------Contact */
 
-.contact-section.container {
-    background-color: blue;
-    color: red;
+#contact {
+    background-color: blue !important;
+    color: red !important;
 }
