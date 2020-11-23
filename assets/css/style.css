@@ -1,5 +1,7 @@
 body {
     font-family: 'Roboto', sans-serif;
+    color:#fafafa;
+    text-align: left;
 }
 
 /* --------------------------------navbar */
@@ -12,7 +14,7 @@ margin-bottom: 0;
 
 .nav-link{
     font-weight: bold;
-    text: blue;
+    color: blue;
 }
 
 
@@ -46,6 +48,25 @@ margin-bottom: 0;
     padding-bottom: 0px;
     color: blue;
 }
+
+.jumbotron h5 {
+    color: blue;
+    text-align: left;
+}
+
+.jumbotron h3{
+    color: blue;
+    text-align: center;
+}
+
+.jumbotron p {
+    color: white;
+    text-align: left;
+    height: 100vh;
+}
+
+
+
 
 /* --------------------------------Footer */
 
@@ -89,3 +110,6 @@ footer {
 #footer-details {
     padding: 20px;
 }
+
+
+
