@@ -55,9 +55,10 @@ In the footer of each page i wanted to have links to the clubs social media acco
 
 #### Skeleton
 
-- Home wireframe (add link)
-- History wireframe (add link)
-- Matches wireframe (add link)
+- Home wireframe (images/.png)
+- Fixtures wireframe (images/fixtures.png)
+- Club wireframe (https://e5994c7d-6110-470f-ba4e-e17f28164fa5.ws-eu01.gitpod.io/files/download/?id=8f32e2c3-1e27-49d1-be7b-6ecf9cc9faf8)
+- Contact Wireframe (contact.png)
 
 #### Surface
 
@@ -67,15 +68,15 @@ with the clubs colors of blue and red.
 
 ## **Technologies**
 
- ![html logo](assets/images/html.jpg)
+ HTML
 
- ![css logo](assets/images/css.png)
+ CSS
 
- ![bootstrap logo](assets/images/bootstrap.png)
+ Bootstrap 4
 
-![google fonts]
+ Google Fonts
 
-![font awesome]
+ Font Awesome
 
 ## **Testing**
 
