@@ -64,10 +64,10 @@ In the footer of each page i wanted to have links to the clubs social media acco
 
 #### Skeleton
 
-- Home wireframe (images/.png)
-- Fixtures wireframe (images/fixtures.png)
-- Club wireframe 
-- Contact Wireframe (contact.png)
+- ![Home wireframe](assets/images/home.png)
+- ![Fixtures wireframe](assets/images/fixtures.png)
+- ![Club wireframe](assets/images/club.png) 
+- ![Contact Wireframe](assets/images/contact.png)
 
 #### Surface
 
@@ -103,15 +103,37 @@ information on the stadium the matches were being played at.
 - On some mobile devices my table on the fixtures page is not 100% responsive,
 and with further time I hope to eradicate this.
 
-## **Credits**
+## **Deployment**
 
-### **Code**
+- This project was deployed on githubpages.com, to deploy the project:
+- 1. login to github and locate repository.
+- 2. at the top of the repo click the settings button.
+- 3. locate github pages section.
+- 4. under source, click the dropdown called none and select the Master Branch.
+- 5. go back down through the page and finf the site link in github pages section.
+
+
+
+## **Credits**
 
 - Thomondpark.ie for my background image used throughout the site.
 - Pinterest.ie for my logo used on my navbar.
-- Bootstrap 4 for my nav and code throughout the project.
-- Google Fonts for the font I used in the site.
-- Font awesome for the icons in my footer.
+- Bootstrap4.com for my nav and code throughout the project.
+- Googlefonts.com for the font I used in the site.
+- Fontawesome.com for the icons in my footer.
+
+## **Acknowledgements**
+
+- My mentor at Codeinstitute
+- All the tutors at Codeinstitute
+- My fellow students at Codeinstitute
+- Slack
+
+
+This site is for educational purposes only!
+
+
+
 
 
 
