@@ -68,15 +68,15 @@ with the clubs colors of blue and red.
 
 ## **Technologies**
 
- ![html image](assets/images//html.jpg?raw=true "HTML")
+ ![html image](assets/images//html.jpg?raw=true=250x250 "HTML")
 
- ![css image](assets/images//css.png?raw=true "CSS")
+ ![css image](assets/images//css.png?raw=true=250x250 "CSS")
 
- ![bootstrap image](assets/images//bootstrap.png?raw=true "BOOTSTRAP")
+ ![bootstrap image](assets/images//bootstrap.png?raw=true=250x250 "BOOTSTRAP")
 
- ![google fonts image](assets/images//google-fonts.png?raw=true "GOOGLE FONTS")
+ ![google fonts image](assets/images//google-fonts.png?raw=true=250x250 "GOOGLE FONTS")
 
- ![font awesome image](assets/images//font-awesome.png?raw=true "FONT AWESOME")
+ ![font awesome image](assets/images//fontawesome.png?raw=true=250x250 "FONT AWESOME")
 
 ## **Testing**
 
