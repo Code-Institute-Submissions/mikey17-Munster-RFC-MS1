@@ -64,17 +64,18 @@ In the footer of each page i wanted to have links to the clubs social media acco
 
 #### Skeleton
 
-- ![Home wireframe](assets/images/home.png)
-- ![Fixtures wireframe](assets/images/fixtures.png)
-- ![Club wireframe](assets/images/club.png) 
-- ![Contact Wireframe](assets/images/contact.png)
+- Home Wireframe ![Home wireframe](assets/images/home.png)
+- Fixtures Wireframe ![Fixtures wireframe](assets/images/fixtures.png)
+- Club Wireframe ![Club wireframe](assets/images/club.png) 
+- Contact Wireframe ![Contact Wireframe](assets/images/contact.png)
 
 #### Surface
 
 The hero image on the homescreen was to showcase the stadium
 the club play their matches in. The color scheme was in-line 
 with the clubs colors of blue and red. As i felt the hero image/
-background image worked well I decided to use it for my fixtures and club page also.
+background image worked well I decided to use it for my fixtures and club page also,
+as you can see from my wireframes I was not goin to use the image for each page.
 With more time and knowledge I would of liked to have added teams crests and logos and also
 information on the stadium the matches were being played at.
 
