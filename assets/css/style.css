@@ -1,18 +1,18 @@
 body {
     font-family: 'Roboto', sans-serif;
-    color:#fafafa;
+    color: #fafafa;
     text-align: left;
 }
 
 /* --------------------------------navbar */
 .navbar {
-margin-bottom: 0;
+    margin-bottom: 0;
     width: 100%;
-    background-color: rgba(242, 38, 19, 1)!important;
+    background-color: rgba(242, 38, 19, 1) !important;
     border: 0;
 }
 
-.nav-link{
+.nav-link {
     font-weight: bold;
     color: blue;
 }
@@ -31,13 +31,6 @@ margin-bottom: 0;
     margin-bottom: 0;
 }
 
-.opaque-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-}
 
 .view h2 {
     padding-top: 75px;
@@ -48,10 +41,10 @@ margin-bottom: 0;
 
 .view h5 {
     color: blue;
-    text-align: left;
+    text-align: center;
 }
 
-.view h3{
+.view h3 {
     color: blue;
     text-align: center;
 }
@@ -69,14 +62,15 @@ margin-bottom: 0;
 
 
 footer {
-    background-color:  rgba(242, 38, 19, 1)!important;
-    color:  blue;
+    background-color: rgba(242, 38, 19, 1) !important;
+    color: blue;
     min-height: 120px;
     margin: 0;
     text-align: center;
 }
 
-.uppercase-general-sub,h5{
+.uppercase-general-sub,
+h5 {
     font-size: 2.5rem;
 }
 
@@ -104,11 +98,8 @@ footer {
     background: #e84610;
 }
 
-#footer-details {
-    padding: 20px;
-}
 
-/* --------------------------------Fixtures */
+
 
 
 /* --------------------------------Contact */
@@ -118,6 +109,6 @@ footer {
     text-align: center;
 }
 
-.vertical-center{
-   align-items: center; 
+.btn {
+    color: #fafafa
 }
