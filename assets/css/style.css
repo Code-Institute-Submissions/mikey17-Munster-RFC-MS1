@@ -60,12 +60,12 @@ nav .navbar-nav li a{
 /* --------- CLUB PAGE  ---------*/
 
 .club {
-    background-color:#F3F3F3;
+    background-color:whitesmoke;
     height: 100vh;
 }
 
 .club h5{
-    color:#932432;
+    color:blue;
 }
 
 .club p{
