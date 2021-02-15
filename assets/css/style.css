@@ -4,7 +4,7 @@ body {
     text-align: left;
 }
 
-/* --------------------------------navbar */
+/* --------- NAVBAR  ---------*/
 .navbar {
     margin-bottom: 0;
     width: 100%;
@@ -14,12 +14,15 @@ body {
 
 .nav-link {
     font-weight: bold;
-    color: blue;
+}
+
+nav .navbar-nav li a{
+    color: blue!important;
 }
 
 
 
-/* --------------------------------hero image/background image */
+/* --------- HERO/BACKGROUND IMAGE  ---------*/
 
 .view.home {
     height: 100vh;
@@ -54,11 +57,23 @@ body {
     text-align: left;
 }
 
+/* --------- CLUB PAGE  ---------*/
+
+.club {
+    background-color:#F3F3F3;
+    height: 100vh;
+}
+
+.club h5{
+    color:#932432;
+}
+
+.club p{
+    color:#000033;
+}
 
 
-
-
-/* --------------------------------Footer */
+/* --------- FOOTER  ---------*/
 
 
 footer {
@@ -102,7 +117,7 @@ h5 {
 
 
 
-/* --------------------------------Contact */
+/* --------- CONTACT  ---------*/
 
 #contact {
     background-color: blue !important;
