@@ -35,10 +35,10 @@ nav .navbar-nav li a{
 }
 
 
-.view h2 {
-    padding-top: 75px;
-    padding-bottom: 0px;
-    color: white;
+.view h1 {
+    padding-top: 0px;
+    padding-bottom: 400px;
+    color:white;
     text-align: center;
 }
 
