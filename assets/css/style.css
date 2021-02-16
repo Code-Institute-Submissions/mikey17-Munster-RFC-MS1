@@ -12,9 +12,7 @@ body {
     border: 0;
 }
 
-.nav-link {
-    font-weight: bold;
-}
+
 
 nav .navbar-nav li a{
     color: blue!important;
@@ -23,6 +21,8 @@ nav .navbar-nav li a{
     font-size: 1.1rem;
     letter-spacing: 3px;
     line-height: 30px;
+    font-weight: bold;
+    text-transform: capitalize;
 }
 
 
