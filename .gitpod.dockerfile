@@ -1,5 +1,7 @@
 FROM gitpod/workspace-full
 
+ENV TRIGGER_REBUILD 3
+
 USER root
 # Setup Heroku CLI
 RUN curl https://cli-assets.heroku.com/install.sh | sh

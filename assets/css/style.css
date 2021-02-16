@@ -18,6 +18,11 @@ body {
 
 nav .navbar-nav li a{
     color: blue!important;
+    font-family: "Cabin", sans-serif;
+    font-weight: 100;
+    font-size: 1.1rem;
+    letter-spacing: 3px;
+    line-height: 30px;
 }
 
 
@@ -60,16 +65,17 @@ nav .navbar-nav li a{
 /* --------- CLUB PAGE  ---------*/
 
 .club {
-    background-color:whitesmoke;
-    height: 100vh;
+    background-color:white;
+    
 }
 
 .club h5{
-    color:blue;
+    color:red;
 }
 
 .club p{
-    color:#000033;
+    color:black;
+    
 }
 
 
@@ -82,6 +88,7 @@ footer {
     min-height: 120px;
     margin: 0;
     text-align: center;
+    position: relative;
 }
 
 .uppercase-general-sub,
