@@ -28,12 +28,13 @@ This is my website based on Munster Rugby Football Club.
 
 #### Design
 
-- I used red and blue mainly in my colour scheme as they are the
+- I wanted to use red and blue mainly in my colour scheme as they are the
 colours of the club and I wanted to keep these colours prevalent.
-- The image of the stadium I used on three pages was to showcase the stadium 
+- The image of the stadium I used on the home page was to showcase the stadium 
 and also grab the users attention.
-- The font roboto was used as i felt it mixed nicely with the background image and 
-one of the attractive images.
+- I wanted to show the upcoming fixtures,dates,times and tv channels as it is a good way to get users to return and shows everything on one page.
+- I wanted a contact page so users can get in contact with me, regarding any queries they may have.
+- The club page was created to get users some information on the past of the club and also so they could see some of the clubs best moments.
 
 
 #### Strategy
@@ -44,18 +45,16 @@ immediately.I also wanted the user to be able to naviagte the site very easily a
 #### Scope
 
 For users, I wanted to provide them with as much info about Munster RFC as possible.
-I also wanted to add options for tickets (through a link).I also wanted to have a contact page within my site,so a user could
-get in contact with the club easily on any matter they wanted addressing.
+I also wanted to add options for merchandise (through a link).I also wanted to have a contact page within my site,so a user could
+get in contact with the club easily on any matter they wanted addressing. Fits with my current ability and the content is visible imediately.Plus to have social media links to be able to connect with the 
+user in a different way.
 
 #### Structure
 
-In the home page I wanted a image that would draw the attention of the user immediately. I also wanted a naviagation bar that is easily useable,
-and can get you to the rest of the site without much effort.
-In the history section I wanted to detail a small bit of history on the club.
-I also wanted to show what the club had won and when they had won a certain competition.
-In the matches section I wanted to inform the user upcoming fixtures.
-Plus have a link to buy tickets for the upcoming fixtures. 
-In the footer of each page i wanted to have links to the clubs social media accounts.
+ The main focus of the structure is to allow users to quickly get information there looking for. 
+  I didnt want to have too much text as not to overwhelm the user and also keep the site tidy and flowing.
+ A video to  get the users excited and have them reminiscing about the past glories.
+ Users can get in contact very easily through a contact form and also through social media links in the footer.
 
 #### Skeleton
 
@@ -63,16 +62,17 @@ In the footer of each page i wanted to have links to the clubs social media acco
 - Fixtures Wireframe ![Fixtures wireframe](assets/images/fixtures.png)
 - Club Wireframe ![Club wireframe](assets/images/club.png) 
 - Contact Wireframe ![Contact Wireframe](assets/images/contact.png)
-
+- Fixed nav bar with headings pointing to each page.
+- Fixed footer with social media icons.
+- Buttons in home page to link to sites other pages and a seperate site where merchandise can be bought.
 #### Surface
 
 The hero image on the homescreen was to showcase the stadium
 the club play their matches in. The color scheme was in-line 
-with the clubs colors of blue and red. As i felt the hero image/
-background image worked well I decided to use it for my fixtures and club page also,
-as you can see from my wireframes I was not goin to use the image for each page.
-With more time and knowledge I would of liked to have added teams crests and logos and also
-information on the stadium the matches were being played at.
+with the clubs colors of blue and red. I chose a white background and black text as i felt it is more readable,as i was
+ going to go with a blue background first. The video was selected as I feel it gives not just one great moment but a variety of moments and could be watch numerous times.
+ 
+
 
 ## **Technologies**
 
