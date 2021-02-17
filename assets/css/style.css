@@ -65,16 +65,25 @@ nav .navbar-nav li a {
 /* --------- CLUB PAGE  ---------*/
 
 .club {
-    background-color: white;
+    background-color: blue;
 }
 
 .club h5 {
     color: red;
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    font-size: 2.8rem;
+    text-decoration: underline;
 }
 
 .club p {
-    color: black;
+    color:white;
+    text-align: center;
+}
+
+.club a{
+    color:red;
 }
 
 .iframe-container {
