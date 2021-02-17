@@ -124,11 +124,13 @@ nav .navbar-nav li a {
 
 .fixtures {
     background-color: white;
+    text-align: center;
 }
 
-.fixtures h3 {
+.fixtures h2 {
     text-align: center;
     color: blue;
+    text-transform: uppercase;
 }
 
 .fixtures thead {
