@@ -63,14 +63,35 @@ nav .navbar-nav li a {
     text-align: center;
 }
 
+@media screen and (max-width:576px) {
+  .btn-group {
+    display: flex;
+  }
+}
+
 .btn-group{
     background-color:blue;
+
+}
+
+.btn{
+    text-transform: uppercase;
+    padding: 0;
+}
+
+.btn btn-primary a{
+    color: white;
+}
+
+.btn-primary{
+    border-color: red;
+    background-color: blue;
+    color: white;
 }
 
 .btn-group button {
   background-color:transparent;
   border: 1px red; 
-  color: white; 
   padding: 10px;
   cursor: pointer; 
   float: left; 
@@ -86,12 +107,6 @@ nav .navbar-nav li a {
   clear: both;
   display: table;
 }
-
-
-.btn-group button:hover {
-  background-color:lightskyblue;
-}
-
 
 
 /* --------- CLUB PAGE  ---------*/
@@ -160,7 +175,6 @@ nav .navbar-nav li a {
 }
 
 .btn {
-    color:blue;
     text-transform: uppercase;
 }
 
