@@ -11,7 +11,7 @@
 
 
 nav .navbar-nav li a {
-    color: blue !important;
+    color:white!Important;
     font-family: "Cabin", sans-serif;
     font-weight: 100;
     font-size: 1.1rem;
@@ -167,7 +167,7 @@ nav .navbar-nav li a {
 
 footer {
     background-color: rgba(242, 38, 19, 1) !important;
-    color: blue;
+    color:white;
     min-height: 120px;
     margin: 0;
     text-align: center;
