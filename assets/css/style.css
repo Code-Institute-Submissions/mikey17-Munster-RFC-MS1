@@ -128,7 +128,8 @@ nav .navbar-nav li a {
 }
 
 .btn {
-    color: #fafafa
+    color:blue;
+    text-transform: uppercase;
 }
 
 /* --------- FIXTURES PAGE  ---------*/
