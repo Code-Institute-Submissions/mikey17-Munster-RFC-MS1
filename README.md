@@ -1,5 +1,7 @@
 # [Munster RFC](https://mikey17.github.io/Munster-RFC-MS1/)
 
+![Responsive Site](assets/images/responsive.png)
+
 MS1 Project-Codeinstitute
 
 This is my website based on Munster Rugby Football Club.
