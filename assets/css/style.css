@@ -67,11 +67,11 @@ nav .navbar-nav li a {
 /* --------- CLUB PAGE  ---------*/
 
 .club {
-    background-color: blue;
+    background-color:white;
 }
 
 .club h5 {
-    color: red;
+    color:blue;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-transform: uppercase;
@@ -80,7 +80,7 @@ nav .navbar-nav li a {
 }
 
 .club p {
-    color:white;
+    color:red;
     text-align: center;
 }
 
@@ -132,6 +132,7 @@ nav .navbar-nav li a {
     color: blue;
     text-transform: uppercase;
 }
+
 
 .fixtures thead {
     color: red;
