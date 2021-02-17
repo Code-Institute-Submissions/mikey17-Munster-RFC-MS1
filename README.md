@@ -13,9 +13,8 @@ This is my website based on Munster Rugby Football Club.
 #### 1. First Time User
 
 - As a first time user, I want to easily find my way around the site and find what Im looking for quickly.
-- As a first time user, I want to be able to see where the stadium is, and also get directions to the stadium.
-- I want to find information on the Munster Rugby team and also images and some history on the team.
-- As a fan I want to see dates for upcoming matches, and also find out where I can purchase tickets for the upcoming games.
+- As a first time user, I want to be able to check on the future fixtures of the team and see their schedule.
+- I want to find information on the Munster Rugby team and also look at images/videos and read about some history on the team.
 - As a fan, I want to be able to view merchandise and order/buy merchandise, or else have a link to be able to do so.
 - As a First time user, I want to see if there are any links to the clubs social media channels.
 
@@ -23,15 +22,9 @@ This is my website based on Munster Rugby Football Club.
 #### 2. Returning User
 
 - As a returning user, I want to check on the results of the team.
-- As a returning user, I want to check on upcoming fixtures again.
+- As a returning user, I want to check on upcoming fixtures again see if the matches are being shown on television, as with covid19 I cant get to the matches.
 - As a returning user, I want to see if there is any new updates about the team or club as a whole.
 
-
-#### 3. Frequent User
-
-- As a frequent user, I want to check on the news of the club each day.
-- As a frequent user, I want to be able to link to the social media pages/accounts of the club in an easy manner.
-- As a frequent user, I want to check for new details on upcoming games and ticket availability.
 
 #### Design
 
