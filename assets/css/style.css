@@ -171,11 +171,11 @@ h5 {
     height: 32px;
     padding: 12px 0;
     border-radius: 50%;
-    font-size: 13px;
+    font-size: 18px;
     line-height: 7px;
     text-align: center;
-    color: #fafafa;
-    background: #8f8f8f;
+    color:red;
+    background:blue;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -183,5 +183,5 @@ h5 {
 }
 
 .social-links li a i:hover {
-    background: blue;
+    background:white;
 }
