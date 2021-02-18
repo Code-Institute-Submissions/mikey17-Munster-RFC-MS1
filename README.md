@@ -128,7 +128,7 @@ a mini-project in code institue(whiskey drop) and took examples from that projec
 - I used the bootstrap nav to make sure the user could navigate the site with ease and get back to the homepage if so required.
 - I put in a link to a stote that sells Munster gear as the user can get to that store via a new tab and check the latest gear,but also not leave my site as I set it to open in a new tab.
 - I used a video and some text to give the user some history on the club, but also have the option to watch past histories if they werent in the mood for reading.
-
+- Used images of channel logos to show what channel the matches are on, as felt it was a quick and easy way for the user to get that information.
 
 ## **Deployment**
 
@@ -143,11 +143,14 @@ a mini-project in code institue(whiskey drop) and took examples from that projec
 
 ## **Credits**
 
-- Thomondpark.ie for my background image used throughout the site.
+- Thomondpark.ie for my background image used on my home page.
 - Pinterest.ie for my logo used on my navbar.
 - Bootstrap4.com for my nav and code throughout the project.
 - Googlefonts.com for the font I used in the site.
 - Fontawesome.com for the icons in my footer.
+- Stackoverflow.com
+- w3cschool.com
+- csstricks.com
 
 
 ## **Acknowledgements**
@@ -156,7 +159,8 @@ a mini-project in code institue(whiskey drop) and took examples from that projec
 - All the tutors at Codeinstitute
 - My fellow students at Codeinstitute
 - Slack
-
+- Anna Greaves at Codeinstitute
+- Jim Lynx at Codeinstitute
 
 This site is for educational purposes only!
 
