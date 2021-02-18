@@ -114,6 +114,20 @@ with the clubs colors of blue and red. I chose a white background and black text
 - Used [CSS Validation](https://jigsaw.w3.org/css-validator/), to test my css and it came back with 2 errors (Property text-decoration-skip-ink doesn't exist : none) (Property backdrop-filter doesn't exist : blur(10px)).
 - Used [Spellcheck](https://www.online-spellcheck.com/), to check my readme and there was one spelling mistake which I fixed.
 
+## **Project Bugs and Fixes**
+
+- My table within my fixtures page is still not fully responsive and I hope to fix this issue with more knowledge, as I was told it is not ideal to use a table for this layout.
+- Firstly I wanted to have the color theme completely red and blue to go with the club ethos,however these colors were too vibrant together, so I decided to use a more plain white background and black text for an easier readability.
+However i used blue for headers and icons to get both colors in.
+- Came accross an issue with my home page image at first with height and width problems, I went back over
+a mini-project in code institue(whiskey drop) and took examples from that project to style my image and make it responsive.
+- Again with my nav links I had them coloured blue but they clashed too much again, so I changed the to white within my style.css.
+- Used bootstrap grid for my contact form, as at first i designed my own but the responsiveness was not right so decided to use the bootstrap contact form.
+- My pictures for my tv chanels were too big at first and throwing my table reponsiveness off,so I changed the height on two of the images in my css to get them right.
+- My links in the footer were white at first but i changed them to blue to get more blue into the design, and also changed the hover color to white to get them to stand out more.
+- I used the bootstrap nav to make sure the user could navigate the site with ease and get back to the homepage if so required.
+- I put in a link to a stote that sells Munster gear as the user can get to that store via a new tab and check the latest gear,but also not leave my site as I set it to open in a new tab.
+- I used a video and some text to give the user some history on the club, but also have the option to watch past histories if they werent in the mood for reading.
 
 
 ## **Deployment**
@@ -134,6 +148,7 @@ with the clubs colors of blue and red. I chose a white background and black text
 - Bootstrap4.com for my nav and code throughout the project.
 - Googlefonts.com for the font I used in the site.
 - Fontawesome.com for the icons in my footer.
+
 
 ## **Acknowledgements**
 
