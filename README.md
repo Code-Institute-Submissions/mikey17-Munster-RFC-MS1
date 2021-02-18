@@ -71,33 +71,50 @@ The hero image on the homescreen was to showcase the stadium
 the club play their matches in. The color scheme was in-line 
 with the clubs colors of blue and red. I chose a white background and black text as i felt it is more readable,as i was
  going to go with a blue background first. The video was selected as I feel it gives not just one great moment but a variety of moments and could be watch numerous times.
- 
+
+#### Features
+
+- Designed using HTML,CSS and Bootstrap 4.
+- Four HTML pages used.
+- Footer with icons allows for quick access to Munster's social media.
+- Nav with links allows quick navigation within the site.
+- Mercahndise button allows to view clothing/gear on a different site using a link whcih opens in a new tab.
+- Contact form quick and easy to fill in.
+
+
+## Future Features
+
+1. Make the fixtures table more responsive or not use a table at all for it, when my learning is further along.
+2. Update contact form with emial.js(once javascript knowledge is improved).
+3. Make video respond better on ipads.
 
 
 ## **Technologies**
 
- * HTML
- * CSS
- * BOOTSTRAP
- * GOOGLE FONTS
- * FONT AWESOME
- * HOVER.CSS
- * GITHUB
- * BALSAMIQ
+ >* HTML
+ >* CSS
+ >* BOOTSTRAP
+ >* GOOGLE FONTS
+ >* FONT AWESOME
+ >* HOVER.CSS
+ >* GITHUB
+ >* BALSAMIQ
+ >* AMIRESPONSIVE
 
 ## **Testing**
 
-- To test my CSS I used the [W3C validation service](https://validator.w3.org/)
-- To test my HTML I also used the [W3C validation service](https://validator.w3.org/)
-- I tested my site on a variety of different size devices to check if it was responsive.
-- Also I tested the site on different browsers to check for functionality.
-- Within the coding I tested the links every so often to make sure they were working properly, and directing to where I wanted.
+- After doing my wireframes I checked to see if my nav bar and links within the nav were working correctly
+- Used dev tools to check on the responsiveness of my site on all screen sizes.
+- Checked to see if my social media icons in my footer were working correctly and if each icon linked correctly to the site I wanted.
+- Checked my contact page to see if it worked as I wanted and checked the link in the nav to see if it brought me to the contact page as intended.
+- Checked the buttons on the home page to see if they were working correctly, and also if the merchandise link opened up in a new tab.
+- Test send button on the contact page to see if it worked and also the email entry input on the same page to make sure that it had to be an email address entered.
+- Tested color contrasts with [a11y](https://color.a11y.com/), tests seemed good, however problem with homepage paragraph and background image.
+- Used [HTML Validation](https://validator.w3.org/), to test my HTML and tested well with just one fault with my anchor tags in my buttons on the home page.
+- Used [CSS Validation](https://jigsaw.w3.org/css-validator/), to test my css and it came back with 2 errors (Property text-decoration-skip-ink doesn't exist : none) (Property backdrop-filter doesn't exist : blur(10px)).
+- Used [Spellcheck](https://www.online-spellcheck.com/), to check my readme and there was one spelling mistake which I fixed.
 
 
-## **Bugs**
-
-- On some mobile devices my table on the fixtures page is not 100% responsive,
-and with further time I hope to eradicate this.
 
 ## **Deployment**
 
@@ -106,7 +123,7 @@ and with further time I hope to eradicate this.
 - 2. at the top of the repo click the settings button.
 - 3. locate github pages section.
 - 4. under source, click the dropdown called none and select the Master Branch.
-- 5. go back down through the page and finf the site link in github pages section.
+- 5. go back down through the page and find the site link in github pages section.
 
 
 
